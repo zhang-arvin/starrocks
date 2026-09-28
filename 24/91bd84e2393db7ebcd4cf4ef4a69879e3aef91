@@ -1,0 +1,22 @@
+fe/fe-core/src/main/java/com/starrocks/qe/scheduler/slot/BaseSlotManager.java
+  h_3b6e9f02d1d4dc 22,162-173
+fe/fe-core/src/main/java/com/starrocks/qe/scheduler/slot/BaseSlotTracker.java
+  h_3b6e9f02d1d4dc 48,287-305
+fe/fe-core/src/main/java/com/starrocks/qe/scheduler/slot/SlotManager.java
+  h_3b6e9f02d1d4dc 20,41-46,53-91
+fe/fe-core/src/main/java/com/starrocks/server/GlobalStateMgr.java
+  h_3b6e9f02d1d4dc 905-908
+fe/fe-core/src/test/java/com/starrocks/qe/scheduler/slot/SlotManagerTest.java
+  h_3b6e9f02d1d4dc 1-115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "2491bd84e2393db7ebcd4cf4ef4a69879e3aef91",
+  "prompts": {},
+  "humans": {
+    "h_3b6e9f02d1d4dc": {
+      "author": "zhang-arvin <arvin.zhang@htx-inc.com>"
+    }
+  }
+}
